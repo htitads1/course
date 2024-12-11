@@ -1,0 +1,182 @@
+﻿Course Name,Category
+Cloud Computing Fundamentals,Cloud
+Introduction to AWS,Cloud
+Google Cloud Platform Essentials,Cloud
+Microsoft Azure for Beginners,Cloud
+Cloud Security Fundamentals,Cloud
+Kubernetes for Beginners,Cloud
+Cloud Architecture Design,Cloud
+Introduction to DevOps,Cloud
+AWS Certified Solutions Architect,Cloud
+Serverless Computing with AWS Lambda,Cloud
+Introduction to Cloud Security,Cloud
+Cloud Infrastructure Design,Cloud
+Building Cloud Applications with AWS,Cloud
+Introduction to Google Cloud Pub/Sub,Cloud
+Amazon S3 for Beginners,Cloud
+Microsoft Azure Networking,Cloud
+Hands-on with Azure Virtual Machines,Cloud
+Designing Cloud-Native Applications,Cloud
+Cloud Security for Developers,Cloud
+Managing Cloud Costs with AWS,Cloud
+Introduction to Machine Learning,AI/ML
+Deep Learning with TensorFlow,AI/ML
+Python for Data Science,AI/ML
+Natural Language Processing with Python,AI/ML
+Reinforcement Learning,AI/ML
+Neural Networks and Deep Learning,AI/ML
+Introduction to AI and Machine Learning,AI/ML
+AI for Business Leaders,AI/ML
+Data Science and Machine Learning,AI/ML
+Building AI Models with Python,AI/ML
+Advanced Machine Learning Techniques,AI/ML
+Introduction to TensorFlow for Deep Learning,AI/ML
+Data Science with R,AI/ML
+Python for Machine Learning,AI/ML
+AI with Python and TensorFlow,AI/ML
+Computer Vision with Python and OpenCV,AI/ML
+Introduction to Natural Language Processing,AI/ML
+Building Predictive Models with Machine Learning,AI/ML
+Time Series Forecasting with Python,AI/ML
+Introduction to Robotics and AI,AI/ML
+Cloud AI Solutions with Azure,AI/ML
+Introduction to APIs,API and App Dev
+RESTful API Design,API and App Dev
+API Development with Node.js,API and App Dev
+API Integration and Development,API and App Dev
+Building Scalable APIs with Python,API and App Dev
+Mobile App Development with React Native,API and App Dev
+JavaScript for Web Development,API and App Dev
+Building Web Applications with Flask,API and App Dev
+Introduction to iOS App Development,API and App Dev
+Full Stack Development,API and App Dev
+Building Microservices with Spring Boot,API and App Dev
+Mastering Node.js,API and App Dev
+Designing RESTful APIs with Django,API and App Dev
+Building APIs with Express.js,API and App Dev
+Introduction to Android App Development,API and App Dev
+Building Web APIs with ASP.NET Core,API and App Dev
+Building Chatbots with Node.js and Dialogflow,API and App Dev
+Creating APIs with Flask and SQL,API and App Dev
+Introduction to Mobile App Design,API and App Dev
+Full Stack Web Development with JavaScript,API and App Dev
+Advanced Cybersecurity Concepts,Cybersecurity
+Ethical Hacking and Penetration Testing,Cybersecurity
+Network Security Fundamentals,Cybersecurity
+CISSP Certification Prep,Cybersecurity
+Cybersecurity for Business Leaders,Cybersecurity
+Advanced Threat Detection,Cybersecurity
+Cloud Security Essentials,Cybersecurity
+Certified Ethical Hacker (CEH),Cybersecurity
+Incident Response and Management,Cybersecurity
+Risk Management in Cybersecurity,Cybersecurity
+CompTIA Security+ Certification Preparation,Cybersecurity
+Ethical Hacking with Kali Linux,Cybersecurity
+Introduction to Firewalls and VPNs,Cybersecurity
+Introduction to Malware Analysis,Cybersecurity
+Cybersecurity Threat Intelligence,Cybersecurity
+Penetration Testing with Metasploit,Cybersecurity
+Security Operations and Incident Response,Cybersecurity
+Network Defense and Intrusion Detection,Cybersecurity
+Introduction to Encryption and Cryptography,Cybersecurity
+Red Team vs Blue Team: Cybersecurity Essentials,Cybersecurity
+Blockchain for Cybersecurity,Cybersecurity
+Cloud Security Architecture,Cybersecurity
+Securing Web Applications,Cybersecurity
+Cybersecurity Compliance and Risk Management,Cybersecurity
+AWS Security and Identity Management,Cybersecurity
+Building Secure Cloud Applications,Cybersecurity
+Introduction to DevSecOps,Cybersecurity
+Advanced Cloud Security and Governance,Cybersecurity
+Threat Hunting and Incident Response,Cybersecurity
+Ethical Hacking with Python,Cybersecurity
+Introduction to Cyber Forensics,Cybersecurity
+Managing Security for Mobile Applications,Cybersecurity
+Secure Software Development,Cybersecurity
+Cybersecurity Leadership and Management,Cybersecurity
+Cloud Security Automation,Cybersecurity
+Kubernetes Security Essentials,Cybersecurity
+Building Secure APIs,Cybersecurity
+Automating Security with Python,Cybersecurity
+Malware Analysis and Reverse Engineering,Cybersecurity
+Introduction to Web Application Security,Cybersecurity
+Security Awareness Training,Cybersecurity
+AWS Certified Security Specialty,Cybersecurity
+Introduction to Digital Forensics,Cybersecurity
+Security in Software Development,Cybersecurity
+CompTIA Cybersecurity Analyst (CySA+),Cybersecurity
+Azure Security Engineer Associate,Cybersecurity
+Protecting IoT Devices and Networks,Cybersecurity
+Data Privacy and Protection Principles,Cybersecurity
+Cybersecurity for IT Professionals,Cybersecurity
+Cloud-native Security with Kubernetes,Cybersecurity
+AI in Cybersecurity,Cybersecurity
+Ethical Hacking with Burp Suite,Cybersecurity
+Introduction to Internet of Things (IoT) Security,Cybersecurity
+Security Incident Handling and Response,Cybersecurity
+Cybersecurity Architecture and Design,Cybersecurity
+Security Testing for Mobile Applications,Cybersecurity
+Introduction to Cyber Risk Management,Cybersecurity
+Building Secure Cloud Infrastructure with AWS,Cybersecurity
+Cloud Penetration Testing,Cybersecurity
+CompTIA Network+ Certification Preparation,Cybersecurity
+Ethical Hacking and Cyber Attack Simulation,Cybersecurity
+Introduction to Python for Cybersecurity,Cybersecurity
+Advanced Malware Analysis,Cybersecurity
+Red Team Operations and Techniques,Cybersecurity
+Building and Deploying APIs with Python,API and App Dev
+REST API Development with Django,API and App Dev
+Introduction to Docker and Kubernetes,Cloud
+Kubernetes for Developers,Cloud
+Introduction to Cloud Security with AWS,Cloud
+Introduction to Serverless Architecture,Cloud
+Building Cloud Applications with Google Cloud,Cloud
+Managing Cloud Infrastructure with Azure,Cloud
+Introduction to Cloud Migration,Cloud
+DevOps and Cloud Automation,Cloud
+Cloud Computing with Microsoft Azure,Cloud
+Cloud Computing with Google Cloud,Cloud
+Introduction to AI-powered Cloud Applications,Cloud
+Building Cloud-Native Applications with Kubernetes,Cloud
+Cloud Security Risk Management,Cloud
+Advanced Data Engineering on Cloud,Cloud
+Introduction to Edge Computing and Cloud Integration,Cloud
+Cloud Infrastructure Management and Operations,Cloud
+Introduction to Machine Learning for Cloud Applications,AI/ML
+Neural Networks and Computer Vision,AI/ML
+Machine Learning with PyTorch,AI/ML
+Natural Language Processing for Developers,AI/ML
+Introduction to Deep Learning with Keras,AI/ML
+Advanced AI and Data Science,AI/ML
+Machine Learning Algorithms and Techniques,AI/ML
+AI with Deep Learning and TensorFlow,AI/ML
+Building AI-driven Applications,AI/ML
+Machine Learning for Time Series Analysis,AI/ML
+Introduction to Reinforcement Learning with Python,AI/ML
+Data Mining and Machine Learning,AI/ML
+Building Predictive Models with Python,AI/ML
+Introduction to Data Science with Python,AI/ML
+TensorFlow for AI Applications,AI/ML
+Building Smart Applications with AI,AI/ML
+Introduction to Data Visualization with Python,AI/ML
+AI-based Recommendation Systems,AI/ML
+Cloud-based AI Solutions with Azure,AI/ML
+Introduction to Web App Development,API and App Dev
+Mobile App Development with Swift,API and App Dev
+Building Web Apps with React,API and App Dev
+Introduction to Android Studio,API and App Dev
+Web Development with Django,API and App Dev
+API Development with Flask,API and App Dev
+React.js for Beginners,API and App Dev
+Progressive Web Apps with JavaScript,API and App Dev
+Full Stack App Development with React and Node.js,API and App Dev
+JavaScript for Full Stack Development,API and App Dev
+Building Scalable Web Apps with React and Node,API and App Dev
+Mastering JavaScript for Web Development,API and App Dev
+Building Modern Web Applications with Angular,API and App Dev
+Full Stack Development with React and Express,API and App Dev
+Designing and Building REST APIs with Express,API and App Dev
+Android App Development with Kotlin,API and App Dev
+Mobile App Development with Flutter,API and App Dev
+Web Development with Python and Flask,API and App Dev
+Building Dynamic Web Apps with Node.js,API and App Dev
